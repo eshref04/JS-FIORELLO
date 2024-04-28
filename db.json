@@ -1,0 +1,61 @@
+{
+"flowers":[
+    {
+        "img":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-7-img.jpg",
+        "type":"exotic popular all",
+        "name":"Wild Roses",
+        "id":"1",
+        "price":200
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Dahlia_x_hybrida.jpg",
+        "type":"various all",
+        "name":"Dahlia",
+        "id":"2",
+        "price":130
+    },
+    {
+        "img":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-13-img.jpg",
+        "type":"winter all",
+        "name":"Foxglove",
+        "id":"3",
+        "price":80
+    },
+    {
+        "img":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-8-img.jpg",
+        "type":"green all",
+        "name":"Exochorda",
+        "id":"4",
+        "price":100
+    },
+    {
+        "img":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-3-img.jpg",
+        "type":"cactus all",
+        "name":"Cactus",
+        "id":"5",
+        "price":40
+    },
+    {
+        "img":"https://agciceyim.az/data/catalog/product/86/199_lg.jpg",
+        "type":"popular all",
+        "name":"Rose",
+        "id":"6",
+        "price":220
+    },
+    {
+        "img":"https://www.sunset.com/wp-content/uploads/orchids-pc-dmitriy-sidor-getty.jpg",
+        "type":"popular all",
+        "name":"Orchids",
+        "id":"7",
+        "price":160
+    },  
+    {
+        "img":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-2-img.jpg",
+        "type":"exotic all",
+        "name":"Amaryllis",
+        "id":"8",
+        "price":300
+    }
+]
+
+}
